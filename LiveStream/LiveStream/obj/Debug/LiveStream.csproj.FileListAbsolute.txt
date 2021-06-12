@@ -1,0 +1,15 @@
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\LiveStream.exe.config
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\LiveStream.exe
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\LiveStream.pdb
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.Form1.resources
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.Properties.Resources.resources
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.csproj.GenerateResource.cache
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.csproj.CoreCompileInputs.cache
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.exe
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.pdb
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.csprojAssemblyReference.cache
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\Doat Nguyen\source\repos\LiveStream\LiveStream\obj\Debug\LiveStream.csproj.CopyComplete

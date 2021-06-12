@@ -1,0 +1,48 @@
+ffmpeg version git-2020-06-28-4cfcfb3 Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 9.3.1 (GCC) 20200621
+  configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libgsm --disable-w32threads --enable-libmfx --enable-ffnvcodec --enable-cuda-llvm --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt --enable-amf
+  libavutil      56. 55.100 / 56. 55.100
+  libavcodec     58. 93.100 / 58. 93.100
+  libavformat    58. 47.100 / 58. 47.100
+  libavdevice    58. 11.100 / 58. 11.100
+  libavfilter     7. 86.100 /  7. 86.100
+  libswscale      5.  8.100 /  5.  8.100
+  libswresample   3.  8.100 /  3.  8.100
+  libpostproc    55.  8.100 / 55.  8.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'D:\Video_Mine Crack\Video_normal\14-08\Â¡ESTE PERRITO SI ESTÃ BIEN CALIENTE! ðŸ˜‚ðŸ¤¤ HOT DOG EN MINECRAFT BUILD BATTLE #30.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2019-10-21T05:53:52.000000Z
+    encoder         : Lavf55.48.100
+  Duration: 00:11:45.68, start: 0.000000, bitrate: 1203 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720 [SAR 1:1 DAR 16:9], 1070 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 47.95 tbc (default)
+    Metadata:
+      creation_time   : 2019-10-21T05:53:52.000000Z
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2019-10-21T05:53:52.000000Z
+      handler_name    : SoundHandler
+Codec AVOption preset (Configuration preset) specified for output file #0 (rtmp://a.rtmp.youtube.com/live2/2akm-etva-4mpw-5kbx-533w) has not been used for any stream. The most likely reason is either wrong type (e.g. a video option with no video streams) or that it is a private option of some encoder which was not actually used for any stream.
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_amf))
+  Stream #0:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, fifo, to 'rtmp://a.rtmp.youtube.com/live2/2akm-etva-4mpw-5kbx-533w':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.47.100
+    Stream #0:0(und): Video: h264 (h264_amf), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=-1--1, 1500 kb/s, 23.98 fps, 23.98 tbn, 23.98 tbc (default)
+    Metadata:
+      creation_time   : 2019-10-21T05:53:52.000000Z
+      handler_name    : VideoHandler
+      encoder         : Lavc58.93.100 h264_amf
+    Stream #0:1(und): Audio: aac (LC), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2019-10-21T05:53:52.000000Z
+      handler_name    : SoundHandler
+      encoder         : Lavc58.93.100 aac
